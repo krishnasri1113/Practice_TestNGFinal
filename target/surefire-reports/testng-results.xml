@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Smoke_Suite" duration-ms="11322" started-at="2020-06-11T06:04:27Z" finished-at="2020-06-11T06:04:39Z">
+    <groups>
+    </groups>
+    <test name="BrowserTest" duration-ms="11322" started-at="2020-06-11T06:04:27Z" finished-at="2020-06-11T06:04:39Z">
+      <class name="Practice_TestNGFinal.Tc_firefoxlaunch">
+        <test-method status="PASS" signature="firefoxlaunch()[pri:0, instance:Practice_TestNGFinal.Tc_firefoxlaunch@7c226095]" name="firefoxlaunch" duration-ms="7783" started-at="2020-06-10T23:04:27Z" finished-at="2020-06-10T23:04:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- firefoxlaunch -->
+      </class> <!-- Practice_TestNGFinal.Tc_firefoxlaunch -->
+      <class name="Practice_TestNGFinal.TC_chromelaunch">
+        <test-method status="PASS" signature="chromelaunch()[pri:0, instance:Practice_TestNGFinal.TC_chromelaunch@65fc8edc]" name="chromelaunch" duration-ms="11304" started-at="2020-06-10T23:04:27Z" finished-at="2020-06-10T23:04:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- chromelaunch -->
+      </class> <!-- Practice_TestNGFinal.TC_chromelaunch -->
+    </test> <!-- BrowserTest -->
+  </suite> <!-- Smoke_Suite -->
+</testng-results>
